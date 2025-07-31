@@ -124,7 +124,9 @@
 ---
 ### 🎧 Recently Played on Spotify
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
+
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
+
 
 ---
 
