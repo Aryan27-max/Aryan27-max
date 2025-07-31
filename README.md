@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aryan Raj Gupta</h1>
-<h3 align="center">AI ENTHU | API TECH | Systems | Open Source • B.Tech CSE (AIML)</h3>
+<h3 align="center">AI | FULLSTACK | API TECH | Systems | Open Source • B.Tech CSE (AIML)</h3>
 
 ---
 
