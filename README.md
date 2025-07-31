@@ -122,9 +122,9 @@
 
 
 ---
-### 🎵 Recently Played on Spotify
+### 🎧 Recently Played on Spotify
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a&width=600)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
 
 ---
 
