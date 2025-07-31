@@ -122,9 +122,9 @@
 
 
 ---
-### 🎶 Now Playing on Spotify
+### 🎵 Recently Played on Spotify
 
-[![Spotify](https://novatorem-aryan27-max.vercel.app/api/spotify)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
 
 ---
 
