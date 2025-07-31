@@ -1,71 +1,103 @@
-<p align="left">Hello i am Aryan</p>
 
+<h1 align="center">Hi 👋, I'm Aryan Raj Gupta</h1>
+<h3 align="center">AI | Flutter | Systems | Open Source • B.Tech CSE (AIML)</h3>
+
+---
+
+<p align="center">
+  <em>An aspiring developer with a passion for open source, AI engineering, and building robust applications using Flutter, C++, and modern web tools.</em>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan27-max&show_icons=true&theme=tokyonight" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan27-max&layout=compact&theme=tokyonight" width="47%">
+</p>
+
+---
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan27-max/Aryan27-max/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan27-max/Aryan27-max/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aryan27-max/Aryan27-max/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan27-max&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan27-max&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 🔭 What I'm Currently Working On
 
-###
+- 🚗 **Thermal-AI Safety Vision** – A low-cost, thermal-based ADAS system for Indian road safety using NVIDIA DGX A100 compute + sensor fusion.
+- ⚡ **SKY BOX** – A hybrid solar EV charging station for rural/semi-urban India, integrated with smart grid protocols.
+- 🖨️ **Printsasta** – A web-to-print SaaS for bulk B2B customizable printing solutions (inspired by Vistaprint).
+- 💰 **Flutter Budget Tracker App** – Firebase-authenticated mobile app with real-time transaction tracking.
+- 🎯 Preparing for **GSoC 2026**, actively contributing to AOSSIE, Chromium, and CERN-HSF repositories.
+
+---
+
+### 👨‍💻 About Me
+
+- 🔍 Obsessed with exploring the **intersection of AI, embedded systems, and user-centric design**.
+- 🤖 Passionate about **Prompt Engineering** and integrating LLMs in real-world pipelines.
+- 🌐 Building full-stack and mobile apps, and setting up **custom Linux (BSD/Arch/Hyprland)** environments.
+- 🛠️ Believe in mastering **core CS fundamentals** – Data Structures, Algorithms, and OS design.
+
+---
+
+### 🧰 Tech Stack
+
+#### 💻 Languages & Frameworks
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=oracle)
+
+#### 🌐 Web & Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+#### 📦 Currently Learning
+- Dart + Firebase Advanced Patterns
+- OS internals & Kernel design
+- AI deployment (YOLOv8, thermal detection)
+- GitHub Actions + CI/CD + Deployment
+
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔥 Thermal-AI Safety Vision | Real-time ADAS with thermal + LLM prompts | Python, CUDA, TensorRT |
+| ⚡ SKY BOX | IoT-based EV charger with solar hybrid | Embedded C, Solar API |
+| 🖨️ Printsasta | Print SaaS B2B web portal | Firebase, JS, HTML |
+| 📱 Budget Tracker | Cross-platform app for expense tracking | Flutter, Firestore |
+| 🧠 Quiz Game | GDSC event app with leaderboard | Flutter, JSON, Firebase |
+
+---
+
+### 🤝 Open Source & Community
+
+- 👨‍💻 Contributor to:  
+  - [AOSSIE](https://github.com/AO-AOssie) (Resonate project)  
+  - [Chromium](https://www.chromium.org/Home/) (UI & issue triage)  
+  - [CERN-HSF](https://hepsoftwarefoundation.org/) (exploring contributions)  
+
+- 🌱 Always looking to collaborate on impactful OSS.
+
+---
+
+### 📬 Contact Me
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aryan-raj-gupta-1058aa209/" target="_blank">
@@ -88,12 +120,15 @@
   </a>
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan27-max/Aryan27-max/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan27-max/Aryan27-max/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aryan27-max/Aryan27-max/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### ⚡ Fun Fact
+
+> I talk to myself in Slack more than anyone else — but that’s where my best commits are born.  
+Also, I dual-boot for fun and configured Arch + Hyprland... just because I can. 🤘
+
+---
+
+> “Code for a cause, build for the future.” 🌍🚀
+
