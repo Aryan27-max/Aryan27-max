@@ -33,7 +33,6 @@
 
 - 🚗 **Thermal-AI Safety Vision** – A low-cost, thermal-based ADAS system for Indian road safety using NVIDIA DGX A100 compute + sensor fusion.
 - ⚡ **SKY BOX** – A hybrid solar EV charging station for rural/semi-urban India, integrated with smart grid protocols.
-- 🖨️ **Printsasta** – A web-to-print SaaS for bulk B2B customizable printing solutions (inspired by Vistaprint).
 - 💰 **Flutter Budget Tracker App** – Firebase-authenticated mobile app with real-time transaction tracking.
 - 🎯 Preparing for **GSoC 2026**, actively contributing to AOSSIE, Chromium, and CERN-HSF repositories.
 
