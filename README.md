@@ -80,7 +80,7 @@
 | ⚡ SKY BOX | IoT-based EV charger with solar hybrid | Embedded C, Solar API |
 | 🖨️ Printsasta | Print SaaS B2B web portal | Firebase, JS, HTML |
 | 📱 Budget Tracker | Cross-platform app for expense tracking | Flutter, Firestore |
-| 🧠 Quiz Game | GDSC event app with leaderboard | Flutter, JSON   , Firebase |
+| 🧠 Quiz Game | GDSC event app with leaderboard | Flutter, JSON, Firebase |
 
 ---
 
