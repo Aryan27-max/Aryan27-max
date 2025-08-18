@@ -76,7 +76,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔥 Thermal-AI Safety Vision | Real-time ADAS with thermal + LLM prompts | Python, CUDA, TensorRT |
+| 🔥 Thermal-AI Safety Vision | Real-time ADAS with thermal + LLM prompts | Python, CUDA,   TensorRT |
 | ⚡ SKY BOX | IoT-based EV charger with solar hybrid | Embedded C, Solar API |
 | 🖨️ Printsasta | Print SaaS B2B web portal | Firebase, JS, HTML |
 | 📱 Budget Tracker | Cross-platform app for expense tracking | Flutter, Firestore |
