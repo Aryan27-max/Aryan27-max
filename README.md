@@ -87,7 +87,7 @@
 
 - 👨‍💻 Contributor to:  
   - [AOSSIE](https://github.com/AO-AOssie) (Resonate project)  
-  - [Chromium](https://www.chromium.org/Home/) (UI & issue triage)  
+  - [Apache](https://www.chromium.org/Home/) (Exploring contributions)  
   - [CERN-HSF](https://hepsoftwarefoundation.org/) (exploring contributions)  
 
 - 🌱 Always looking to collaborate on impactful OSS.
