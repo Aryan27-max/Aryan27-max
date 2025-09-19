@@ -131,11 +131,11 @@
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ MY Fact..
 
-> I talk to myself in Slack more than anyone else — but that’s where my best commits are born.  
-Also, I dual-boot for fun and configured Arch + Hyprland... just because I can. 🤘
-
+```
+Proggraming is 40% coding and 60% debugging....
+```
 ---
 
 > “Code for a cause, build for the future.” 🌍🚀
