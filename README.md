@@ -3,7 +3,7 @@
 <h1 align="center">🌍 <a href="https://my-portfolio-one-lac-66.vercel.app/" target="_blank">Check out my Portfolio</a></h1>
 
 
-<h3 align="center">AI | FULLSTACK | API TECH | Systems | Open Source • B.Tech CSE (AI&ML) (Studen...................................t)</h3>
+<h3 align="center">AI | FULLSTACK | API TECH | Systems | Open Source • B.Tech CSE (AI&ML) (Student)</h3>
 
 ---
 
