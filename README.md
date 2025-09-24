@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aryan Raj Gupta</h1>
-<h1 align="center">🌍 <a href="https://my-portfolio-one-lac-66.vercel.app/" target="_blank">Check out my Portfolio.</a></h1>
+<h1 align="center">🌍 <a href="https://my-portfolio-one-lac-66.vercel.app/" target="_blank">Check out my Portfolio</a></h1>
 
 
 <h3 align="center">AI | FULLSTACK | API TECH | Systems | Open Source • B.Tech CSE (AI&ML) (Student)</h3>
@@ -16,7 +16,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=aryan27-max&show_icons=true&theme=tokyonight" width="47%">]
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan27-max&show_icons=true&theme=tokyonight" width="47%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan27-max&layout=compact&theme=tokyonight" width="47%">
 </p>
 
