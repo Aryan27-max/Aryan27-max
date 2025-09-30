@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <em>An aspiring developer with a...... passion for open source, AI engineering, and building robust applications using Flutter, C++, and modern web tools.</em>
+  <em>An aspiring developer with a passion for open source, AI engineering, and building robust applications using Flutter, C++, and modern web tools.</em>
 </p>
 
 ---
