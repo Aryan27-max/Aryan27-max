@@ -8,6 +8,15 @@
 ---
 
 <p align="center">
+  <a href="https://buymeacoffee.com/aryan27.max" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+  </a>
+</p>
+
+
+---
+
+<p align="center">
   <em>An aspiring developer with a passion for open source, AI engineering, and building robust applications using Flutter, C++, and modern web tools.</em>
 </p>
 
