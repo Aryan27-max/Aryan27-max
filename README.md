@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
+<h1 align="center">Hi 👋, I'm Aryan Gueddpta</h1>
 <h1 align="center">🌍 <a href="https://aryan--gupta.vercel.app/" target="_blank">Check out my Portfolio</a></h1>
 
 
