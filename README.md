@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 
 
+<h1 align="center">
+  <a href="https://aryan--gupta.vercel.app/" target="_blank">
+     <b>🌎 Checkout My Profile </b>
+  </a>
+</h1>
+
 <h3 align="center">AI | FULLSTACK | API TECH | Systems | Open Source • B.Tech CSE (AI&ML) (Student)</h3>
 
 ---
