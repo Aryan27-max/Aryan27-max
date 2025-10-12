@@ -10,14 +10,6 @@
 
 <h3 align="center">AI | FULLSTACK | API TECH | Systems | Open Source • B.Tech CSE (AI&ML) (Student)</h3>
 
----
-
-<p align="center">
-  <a href="https://buymeacoffee.com/aryan27.max" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
-  </a>
-</p>
-
 
 ---
 
@@ -177,7 +169,13 @@
 ```
 Proggraming is 40% coding and 60% debugging....
 ```
----
 
-> “Code for a cause, build for the future.” 🌍🚀
+---
+## 🛠️ If you've Reached here feel free to - 
+<p align="center">
+  <a href="https://buymeacoffee.com/aryan27.max" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+  </a>
+</p>
+
 
