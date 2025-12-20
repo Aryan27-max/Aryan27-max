@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://aryan--gupta.vercel.app/" target="_blank">
-     <b>🌎 Checkout My Portfolio </b>
+     <b>👉 Checkout My Portfolio </b>
   </a>
 </h1>
 
