@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<h3 align="center">AI | FULLSTACK | API TECH | Systems | Open Source • B.Tech CSE (AI&ML) (Student)</h3>
+<h3 align="center">AI | FULLSTACK | API TECH | Systems | Open Source • B.Tech CSE (AI&ML). (Student)</h3>
 
 
 ---
