@@ -6,7 +6,6 @@
     <br>I'm <strong>Aryan Gupta</strong>
   </h1>
   <p><i>AI/ML | FULLSTACK | Systems | Open Source | 2× Hackathon Winner</i></p>
-
   
 <!--linked in, gmail and discord links-->
 <div align="center">
@@ -155,6 +154,28 @@ const Aryan = {
 [![@aryan27's Holopin badges](https://holopin.me/aryan27)](https://holopin.io/@aryan27)
 
 </div>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpxZ20wdXB6d3Q4MnNocjRoN2EyenVzNHF6MmpmY28yajljdGJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tqfS3mgQU28ko/giphy.gif"
+        width="90%"
+        alt="Listening to music"
+      />
+    </td>
+
+   <td align="center" width="50%">
+      <a href="https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a" target="_blank">
+        <img
+          src="https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a"
+          width="100%"
+          alt="Spotify Recently Played"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="left">
