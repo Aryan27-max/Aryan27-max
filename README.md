@@ -9,31 +9,32 @@
 
   
 <!--linked in, gmail and discord links-->
-  <div align="center">
-  <a href="https://www.linkedin.com/in/aryan-gupta-1058aa209/ target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>   
+<div align="center">
+  <a href="https://www.linkedin.com/in/aryan-gupta-1058aa209/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn" />
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/aryan2005_raj" target="_blank">    
-   <img src="https://cdn.simpleicons.org/x/ffffff" width="52" height="40" alt="X (Twitter)" />
-  </a>
-     &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/1056371364174508094" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-     &nbsp;&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gupta.raj.aryan.2005@gmail.com&su=Hello%20Aryan&body=Hi%20Aryan%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20connect."
-   target="_blank"
-   title="Contact Aryan via Gmail">
-  <img
-    width="48"
-    height="48"
-    src="https://github.com/user-attachments/assets/3a9c46c0-08a4-41d6-8823-5d9861329884"
-    alt="Gmail"
-  />
-</a>
 
-    
+  <a href="https://x.com/aryan2005_raj" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://discord.com/users/1056371364174508094" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gupta.raj.aryan.2005@gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3a9c46c0-08a4-41d6-8823-5d9861329884"
+         height="40"
+         alt="Gmail"
+         style="vertical-align: middle;" />
+  </a>
+</div>
+
+
+   
    &nbsp;&nbsp;
       
 <p align="center">
@@ -47,6 +48,8 @@
   </a>
 </p>
 </div>
+
+
 
 <!--About me section-->
 <h2 align="left">
@@ -161,10 +164,11 @@ const Aryan = {
 
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
 
-## 🛠️ If you've Reached here feel free to - 
+---
+
 <p align="center">
   <a href="https://buymeacoffee.com/aryan27.max" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
   </a>
 </p>
 
