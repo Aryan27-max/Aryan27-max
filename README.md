@@ -35,6 +35,8 @@
     alt="Profile Views" />
 </p>
 </div>
+
+<!--Abot me section-->
 <h2 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
   About Me 
@@ -43,23 +45,25 @@
 <div align="left">
   
 ```js
-const lohit = {
-  name: 'Lohit Kolluri',
-  current: 'Exploring GenAI & Autonomous DevOps',
-  interest: ['DevOps', 'Cloud-Native Systems', 'Full Stack Dev', 'AI/ML'],
+const Aryan = {
+  name: 'Aryan Gupta',
+  current: 'Exploring GenAI & MERN stack',
+  interest: ['Deep Learning', 'Cloud-Native Systems', 'Full Stack Dev', 'AI/ML'],
   tech: {
-    Backend:  ['Python', 'FastAPI', 'Django', 'Node.js'],
     Frontend: ['React', 'Next.js', 'Tailwind'],
-    Cloud:    ['AWS', 'Azure', 'Docker', 'Kubernetes'],
-    DB:       ['PostgreSQL', 'MongoDB', 'Redis'],
-    Tools:    ['Prometheus', 'GitHub Actions', 'RabbitMQ'],
+    Backend:  ['Python', 'C++', 'JAVA', 'Node.js'],
+    Cloud:    ['AWS', 'Azure', 'Google Cloud', 'Puter'],
+    DB:       ['Firestore', 'MongoDB', ''],
+    Tools:    ['Postman', 'GitHub Actions', 'Linux Systems'],
   },
-  certs: ['Azure AI-900', 'AZ-900', 'SC-900', 'GitHub Foundations'],
-  funFact: "npx lohitkolluri — my terminal biz card ✨",
+  certs: ['Harvard's CS50', 'Stanford CS25', 'GitHub Foundations'],
+  funFact: "am better at debugging than development 🚀",
 };
 ```
 
 </div>
+
+<!--Skills and technologies section-->
 
 <div align="left">
   
@@ -68,6 +72,16 @@ const lohit = {
   Skills & Technologies
 </h2>
 
+<div align="center">
+  <!-- Languages & Fundamentals -->
+ <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python" />
+ <!--Web Tools-->
+  <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,threejs,express" />
+
+ 
+
+</div>
+          
 #### 💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
