@@ -34,6 +34,11 @@
     src="https://komarev.com/ghpvc/?username=Aryan27-max&style=for-the-badge&color=0e75b6" 
     alt="Profile Views" />
 </p>
+<p align="center">
+  <a href="https://aryan--gupta.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PORTFOLIO-aryan--gupta.vercel.app-24283B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 </div>
 
 <!--About me section-->
@@ -103,7 +108,7 @@ const Aryan = {
 <img src="https://skillicons.dev/icons?i=bsd,raspberrypi,arduino,git,github,githubactions,vercel,vim,webstorm,vscode" height="40" />
 </div>
 
-
+<!--Github Analytics Section-->
 <h2 align="left">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
   GitHub Analytics
