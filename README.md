@@ -10,26 +10,30 @@
 <!--linked in, gmail and discord links-->
 <div align="center">
   <a href="https://www.linkedin.com/in/aryan-gupta-1058aa209/" target="_blank">
-   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/aryan2005_raj" target="_blank">
-       <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://aryan--gupta.vercel.app/" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="100" />
+    <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="70" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://discord.com/users/1056371364174508094" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gupta.raj.aryan.2005@gmail.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" />       
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="70" />
   </a>
-  <div align="center">
+  &nbsp;&nbsp;
   <a href="https://buymeacoffee.com/aryan27.max" target="_blank">
-   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" />
+    <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="70" />
   </a>
- 
 </div>
+
    &nbsp;&nbsp;
       
 <p align="center">
