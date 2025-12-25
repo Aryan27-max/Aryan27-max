@@ -155,31 +155,15 @@ const Aryan = {
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
   Recently Vibed on Spotify
 </h2>
+<div align="center">
 
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- LEFT : MUSIC GIF -->
-    <td width="50%" align="center" valign="middle">
-      <img
+  <img
         src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpxZ20wdXB6d3Q4MnNocjRoN2EyenVzNHF6MmpmY28yajljdGJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tqfS3mgQU28ko/giphy.gif"
-        width="90%"
+        width="20%"
         alt="Listening to music"
-      />
-    </td>
-
-  <td width="50%" align="center" valign="middle">
-      <a href="https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a" target="_blank">
-        <img
-          src="https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a"
-          width="100%"
-          alt="Spotify Recently Played"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+/>
 
 
-<!-- [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
--->
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
 
+</div>
