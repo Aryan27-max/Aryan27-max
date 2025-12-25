@@ -152,13 +152,14 @@ const Aryan = {
 </div>
 -->
 <h2 align="left">
- <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" width="75">&nbsp;
-  Recently Played on Spotify
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
+  Recently Vibed on Spotify
 </h2>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="50%">
+    <!-- LEFT : MUSIC GIF -->
+    <td width="50%" align="center" valign="middle">
       <img
         src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpxZ20wdXB6d3Q4MnNocjRoN2EyenVzNHF6MmpmY28yajljdGJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tqfS3mgQU28ko/giphy.gif"
         width="90%"
@@ -166,7 +167,7 @@ const Aryan = {
       />
     </td>
 
-   <td align="center" width="50%">
+  <td width="50%" align="center" valign="middle">
       <a href="https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a" target="_blank">
         <img
           src="https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a"
@@ -179,15 +180,6 @@ const Aryan = {
 </table>
 
 
-
-
 <!-- [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
 -->
-<p align="center">
-  <a href="https://buymeacoffee.com/aryan27.max" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-  </a>
-</p>
-
-
 
