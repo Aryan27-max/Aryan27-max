@@ -1,3 +1,48 @@
+<!-- Hi there and basic introduction -->
+<div align="center">
+  <h1>
+    Hello! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">     
+    <br>I'm <strong>Aryan Gupta</strong>
+  </h1>
+  <p><i>AI/ML | FULLSTACK | Systems | Open Source | 2× Hackathon Winner</i></p>
+
+  
+<!--linked in, gmail and discord links-->
+  <div align="center">
+  <a href="https://www.linkedin.com/in/aryan-gupta-1058aa209/ target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>   
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/aryan2005_raj" target="_blank">    
+   <img src="https://cdn.simpleicons.org/x/ffffff" width="52" height="40" alt="X (Twitter)" />
+  </a>
+     &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/1056371364174508094" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+     &nbsp;&nbsp;&nbsp;
+  <a href="gupta.raj.aryan.2005@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+
+    
+   &nbsp;&nbsp;&nbsp;
+
+      
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Aryan27-max&style=for-the-badge&color=0e75b6" 
+    alt="Profile Views" />
+</p>
+
+</div>
+
+
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
+  About Me 
+</h2>
 
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 
