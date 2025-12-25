@@ -157,13 +157,14 @@ const Aryan = {
 </h2>
 <div align="center">
 
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
+
+
+
   <img
         src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpxZ20wdXB6d3Q4MnNocjRoN2EyenVzNHF6MmpmY28yajljdGJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tqfS3mgQU28ko/giphy.gif"
         width="20%"
         alt="Listening to music"
 />
-
-
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
 
 </div>
