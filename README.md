@@ -36,7 +36,7 @@
 </p>
 <p align="center">
   <a href="https://aryan--gupta.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-aryan--gupta.vercel.app-24283B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-aryan gupta-24283B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 </div>
