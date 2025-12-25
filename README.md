@@ -140,13 +140,20 @@ const Aryan = {
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
   Achievements
 </h2>
+<div align="left">
 
-### 🎧 Recently Played on Spotify -
+[![@aryan27's Holopin badges](https://holopin.me/aryan27)](https://holopin.io/@aryan27)
 
+</div>
+
+
+<h2 align="left">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
+  Recently Played on Spotify
+</h2>
 
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
 
----
 ## 🛠️ If you've Reached here feel free to - 
 <p align="center">
   <a href="https://buymeacoffee.com/aryan27.max" target="_blank">
