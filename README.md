@@ -74,11 +74,11 @@ const Aryan = {
 
 <div align="center">
   <!-- Languages & Fundamentals -->
- <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,bash" />
  <!--Web Tools-->
   <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,threejs,express" />
   <!--Database and Cloud-->
-  <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,postman,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,postman,aws,gcp,flask" />
   <a href="https://puter.com" target="_blank">
   <img
     src="https://assets.puter.site/puter-logo.png"
@@ -89,7 +89,7 @@ const Aryan = {
 </a>
   <!--Auth/Auth-->
 <img src="https://cdn.simpleicons.org/clerk/ffffff" height="40" />
-<!--ML-->
+<!--AI/ML-->
 <img src="https://skillicons.dev/icons?i=tensorflow,arch" height="40" />
 <a href="https://www.ultralytics.com/hub" target="_blank">
   <img
@@ -99,70 +99,15 @@ const Aryan = {
     style="vertical-align: middle;"
   />
 </a>
-
-
-
-
-
+<!--Hardware & others-->
+<img src="https://skillicons.dev/icons?i=bsd,raspberrypi,arduino,git,github,githubactions,vercel,vim,webstorm,vscode" height="40" />
 </div>
 
-#### 🗄️ Database / Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-#### 🔑 OAuth / Auth
-![Clerk](https://img.shields.io/badge/Clerk-3A33D1?style=for-the-badge&logo=clerk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### 🤖 Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
-
-#### ⚙️ Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-
-#### 🔌 Hardware
-![Google Coral](https://img.shields.io/badge/Google_Coral-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
----
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan27-max/Aryan27-max/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan27-max/Aryan27-max/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aryan27-max/Aryan27-max/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
-
-### 🔭 What I'm Currently Working On
-
-- 🚗 **Thermal-AI Safety Vision** – A low-cost, thermal-based ADAS system for Indian road safety using NVIDIA DGX A100 compute + sensor fusion.
-- ⚡ **SKY BOX** – A hybrid solar EV charging station for rural/semi-urban India, integrated with smart grid protocols.
-- 💰 **Flutter Budget Tracker App** – Firebase-authenticated mobile app with real-time transaction tracking.
-- 🎯 Preparing for **GSoC 2026**, actively contributing to AOSSIE, Chromium, and CERN-HSF repositories.
-
----
-
-### 👨‍💻 About Me
-
-- 🔍 Obsessed with exploring the **intersection of AI, embedded systems, and user-centric design**.
-- 🤖 Passionate about **Prompt Engineering** and integrating LLMs in real-world pipelines.
-- 🌐 Building full-stack and mobile apps, and setting up **custom Linux (BSD/Arch/Hyprland)** environments.
-- 🛠️ Believe in mastering **core CS fundamentals** – Data Structures, Algorithms, and OS design.
-  
----
+<h2 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
+  GitHub Analytics
+</h2>
 
 ### 🌟 Featured Projects
 
@@ -183,33 +128,6 @@ const Aryan = {
   - [CERN-HSF](https://hepsoftwarefoundation.org/) (exploring contributions)  
 
 - 🌱 Always looking to collaborate on impactful OSS.
-
----
-
-### 📬 Contact Me -
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aryan-gupta-1058aa209/ target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/aryan2005_raj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/1056371364174508094" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="gupta.raj.aryan.2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/31187734/aryan-gupta" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://join.slack.com/t/newworkspace-jss8167/shared_invite/zt-3ag7ksayb-sEwz53VYIBoKECA8COvPsA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  </a>
-</div>
-
 
 ---
 ### 🎧 Recently Played on Spotify -
