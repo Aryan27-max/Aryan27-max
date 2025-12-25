@@ -122,8 +122,7 @@ const Aryan = {
 <p align="center">
   <img width="49%" src="https://github-readme-stats-roan-five-23.vercel.app/api?username=Aryan27-max&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=percentile&count_private=true" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=Aryan27-max&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
+<img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=Aryan27-max&theme=tokyonight&hide_border=true&background=00000000" />
 
 <!-- Contribution Activity Graph -->
 <p align="center">
