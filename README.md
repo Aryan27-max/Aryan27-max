@@ -22,9 +22,16 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
      &nbsp;&nbsp;&nbsp;
-  <a href="gupta.raj.aryan.2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gupta.raj.aryan.2005@gmail.com&su=Hello%20Aryan&body=Hi%20Aryan%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20connect."
+   target="_blank"
+   title="Contact Aryan via Gmail">
+  <img
+    width="48"
+    height="48"
+    src="https://github.com/user-attachments/assets/3a9c46c0-08a4-41d6-8823-5d9861329884"
+    alt="Gmail"
+  />
+</a>
 
     
    &nbsp;&nbsp;
