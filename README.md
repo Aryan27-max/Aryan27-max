@@ -127,45 +127,24 @@ const Aryan = {
 </p>
 
 <!-- Profile Summary Cards --><!-- Profile Summary Cards -->
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan27-max&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan27-max&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan27-max&theme=tokyonight" />
+</p>
 
+<h2 align="left">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
+  Achievements
+</h2>
 
-
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔥 Thermal-AI Safety Vision | Real-time ADAS with thermal + LLM prompts | Python, CUDA, TensorRT |
-| ⚡ SKY BOX | IoT-based EV charger with solar hybrid | Embedded C, Solar API |
-| 📱 Budget Tracker | Cross-platform app for expense tracking | Flutter, Firestore |
-| 🧠 Quiz Game | GDSC event app with leaderboard | Flutter, JSON, Firebase |
-
----
-
-### 🤝 Open Source & Community
-
-- 👨‍💻 Contributor to:  
-  - [AOSSIE](https://github.com/AO-AOssie) (Resonate project)  
-  - [Apache](https://www.chromium.org/Home/) (Exploring contributions)  
-  - [CERN-HSF](https://hepsoftwarefoundation.org/) (exploring contributions)  
-
-- 🌱 Always looking to collaborate on impactful OSS.
-
----
 ### 🎧 Recently Played on Spotify -
 
 
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
-
-
----
-
-### ⚡ MY Fact..
-
-```
-Proggraming is 40% coding and 60% debugging....
-```
 
 ---
 ## 🛠️ If you've Reached here feel free to - 
