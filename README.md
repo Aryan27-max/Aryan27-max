@@ -36,7 +36,7 @@
 </p>
 </div>
 
-<!--Abot me section-->
+<!--About me section-->
 <h2 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
   About Me 
@@ -77,31 +77,34 @@ const Aryan = {
  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python" />
  <!--Web Tools-->
   <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,threejs,express" />
+  <!--Database and Cloud-->
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,postman,aws,gcp" />
+  <a href="https://puter.com" target="_blank">
+  <img
+    src="https://assets.puter.site/puter-logo.png"
+    height="50"
+    alt="Puter"
+    style="vertical-align: middle;"
+  />
+</a>
+  <!--Auth/Auth-->
+<img src="https://cdn.simpleicons.org/clerk/ffffff" height="40" />
+<!--ML-->
+<img src="https://skillicons.dev/icons?i=tensorflow,arch" height="40" />
+<a href="https://www.ultralytics.com/hub" target="_blank">
+  <img
+    src="https://github.com/ultralytics/assets/raw/main/partners/logo-ultralytics-hub.png"
+    height="50"
+    alt="Ultralytics HUB"
+    style="vertical-align: middle;"
+  />
+</a>
 
- 
+
+
+
 
 </div>
-          
-#### 💻 Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🌐 Web Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-
-
 
 #### 🗄️ Database / Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
