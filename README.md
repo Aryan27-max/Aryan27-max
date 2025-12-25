@@ -10,41 +10,32 @@
 <!--linked in, gmail and discord links-->
 <div align="center">
   <a href="https://www.linkedin.com/in/aryan-gupta-1058aa209/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn" />
+   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://x.com/aryan2005_raj" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" alt="X" />
+       <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  <a href="https://aryan--gupta.vercel.app/" target="_blank" rel="noreferrer">
+     <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="100" />
+  </a>
   <a href="https://discord.com/users/1056371364174508094" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="Discord" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
   </a>
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gupta.raj.aryan.2005@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3a9c46c0-08a4-41d6-8823-5d9861329884"
-         height="40"
-         alt="Gmail"
-         style="vertical-align: middle;" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" />       
   </a>
+  <div align="center">
+  <a href="https://buymeacoffee.com/aryan27.max" target="_blank">
+   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" />
+  </a>
+ 
 </div>
-
-
-   
    &nbsp;&nbsp;
       
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Aryan27-max&style=for-the-badge&color=0e75b6" 
     alt="Profile Views" />
-</p>
-<p align="center">
-  <a href="https://aryan--gupta.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-aryan gupta-24283B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 </div>
 
@@ -145,6 +136,7 @@ const Aryan = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan27-max&theme=tokyonight" />
 </p>
 
+<!--
 <h2 align="left">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
   Achievements
@@ -154,6 +146,11 @@ const Aryan = {
 [![@aryan27's Holopin badges](https://holopin.me/aryan27)](https://holopin.io/@aryan27)
 
 </div>
+-->
+<h2 align="left">
+ <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" width="75">&nbsp;
+  Recently Played on Spotify
+</h2>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -178,19 +175,15 @@ const Aryan = {
 </table>
 
 
-<h2 align="left">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
-  Recently Played on Spotify
-</h2>
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
 
----
-
+<!-- [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kvm7chit3v4tau5ltb3tkqas3a)](https://open.spotify.com/user/31kvm7chit3v4tau5ltb3tkqas3a)
+-->
 <p align="center">
   <a href="https://buymeacoffee.com/aryan27.max" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
   </a>
 </p>
+
 
 
