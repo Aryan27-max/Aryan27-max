@@ -27,52 +27,46 @@
   </a>
 
     
-   &nbsp;&nbsp;&nbsp;
-
+   &nbsp;&nbsp;
       
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Aryan27-max&style=for-the-badge&color=0e75b6" 
     alt="Profile Views" />
 </p>
-
 </div>
-
-
 <h2 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
   About Me 
 </h2>
 
-<h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
+<div align="left">
+  
+```js
+const lohit = {
+  name: 'Lohit Kolluri',
+  current: 'Exploring GenAI & Autonomous DevOps',
+  interest: ['DevOps', 'Cloud-Native Systems', 'Full Stack Dev', 'AI/ML'],
+  tech: {
+    Backend:  ['Python', 'FastAPI', 'Django', 'Node.js'],
+    Frontend: ['React', 'Next.js', 'Tailwind'],
+    Cloud:    ['AWS', 'Azure', 'Docker', 'Kubernetes'],
+    DB:       ['PostgreSQL', 'MongoDB', 'Redis'],
+    Tools:    ['Prometheus', 'GitHub Actions', 'RabbitMQ'],
+  },
+  certs: ['Azure AI-900', 'AZ-900', 'SC-900', 'GitHub Foundations'],
+  funFact: "npx lohitkolluri — my terminal biz card ✨",
+};
+```
 
+</div>
 
-<h1 align="center">
-  <a href="https://aryan--gupta.vercel.app/" target="_blank">
-     <b>👉 Checkout My Portfolio </b>
-  </a>
-</h1>
-
-<h3 align="center">AI | FULLSTACK | API TECH | Systems | Open Source • B.Tech CSE (AI&ML) (Student)</h3>
-
-
----
-
-<p align="center">
-  <em>An aspiring developer with a passion for open source, AI engineering, and building robust applications using Flutter, C++, and modern web tools.</em>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://aryan-github-stats.vercel.app/api?username=aryan27-max&show_icons=true&theme=tokyonight" width="47%">
-   <img src="https://aryan-github-stats.vercel.app/api/top-langs/?username=aryan27-max&layout=compact&theme=tokyonight" width="48%">
-</p>
-
----
-### 🧰 Tech Stack
+<div align="left">
+  
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px">
+  Skills & Technologies
+</h2>
 
 #### 💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -122,7 +116,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
+</div>
 ---
 ###
 
