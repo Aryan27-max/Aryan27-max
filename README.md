@@ -139,6 +139,8 @@ const Aryan = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan27-max&theme=tokyonight" />
 </p>
 
+<!--Add your own holopin badges-->
+
 <!--
 <h2 align="left">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
@@ -150,6 +152,9 @@ const Aryan = {
 
 </div>
 -->
+
+<!--Add your spotify recently listened-->
+
 <h2 align="left">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
   Recently Vibed on Spotify
