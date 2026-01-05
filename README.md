@@ -65,7 +65,7 @@ const Aryan = {
     DB:       ['Firestore', 'MongoDB', ''],
     Tools:    ['Postman', 'GitHub Actions', 'Linux Systems'],
   },
-  certs: ['Harvard's CS50', 'Stanford CS25', 'GitHub Foundations'],
+  certs: ['Harvard's CS50', 'Stanford CS229', 'GitHub Foundations'],
   funFact: "am better at debugging than development 🚀",
 };
 ```
