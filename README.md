@@ -32,7 +32,10 @@
   <a href="https://buymeacoffee.com/aryan27.max" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="70" />
   </a>
-</div>
+   &nbsp;&nbsp;
+  <a href="https://medium.com/@gupta.raj.aryan.2005" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="70" />
+  </a>
 
    &nbsp;&nbsp;
       
