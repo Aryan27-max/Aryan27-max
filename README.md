@@ -88,9 +88,9 @@ const Aryan = {
   <!-- Languages & Fundamentals -->
  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,bash" />
  <!--Web Tools-->
-  <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,threejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,threejs,express,bun,yarn" />
   <!--Database and Cloud-->
-  <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,postman,aws,gcp,flask" />
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,postman,aws,gcp,flask,postgres,mysql,kubernetes,dart,flutter" />
   <a href="https://puter.com" target="_blank">
   <img
     src="https://assets.puter.site/puter-logo.png"
