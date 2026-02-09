@@ -37,9 +37,9 @@
     <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="70" />
   </a>
 
-   &nbsp;&nbsp;
+   <!--&nbsp;&nbsp;
    
-<h1>Check this out <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="45"></h1>
+<h1>Check this out <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="45"></h1> -->
 
   &nbsp;&nbsp;
        
