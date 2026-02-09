@@ -6,7 +6,7 @@
     <br>I'm <strong>Aryan Gupta</strong>
   </h1>
   <p><i>AI/ML | FULLSTACK | Systems | Open Source | 2× Hackathon Winner</i></p>
-  
+
 <!--linked in, gmail and discord links-->
 <div align="center">
   <a href="https://www.linkedin.com/in/aryan-gupta-1058aa209/" target="_blank">
@@ -38,14 +38,17 @@
   </a>
 
    &nbsp;&nbsp;
-      
+   
+<h1>Check this out <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="45"></h1>
+
+  &nbsp;&nbsp;
+       
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Aryan27-max&style=for-the-badge&color=0e75b6" 
     alt="Profile Views" />
 </p>
 </div>
-
 
 
 <!--About me section-->
