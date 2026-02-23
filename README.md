@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">     
     <br>I'm <strong>Aryan Gupta</strong>
   </h1>
-  <p><i>AI/ML | FULLSTACK | Systems | Open Source | 2× Hackathon Winne,.........r</i></p>
+  <p><i>AI/ML | FULLSTACK | Systems | Open Source | 2× Hackathon Winner</i></p>
 
 <!--linked in, gmail and discord links-->
 <div align="center">
@@ -93,7 +93,7 @@ const Aryan = {
  <!--Web Tools-->
   <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,threejs,express,bun,yarn,rust" />
   <!--Database and Cloud-->
-  <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,postman,aws,gcp,flask,postgres,mysql,kubernetes,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,postman,aws,gcp,flask,postgres,mysql,kubernetes,dart,flutter,supabase" />
   <a href="https://puter.com" target="_blank">
   <img
     src="https://assets.puter.site/puter-logo.png"
