@@ -89,7 +89,7 @@ const Aryan = {
 
 <div align="center">
   <!-- Languages & Fundamentals -->
- <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,bash" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,bash,ruby,rails,scala" />
  <!--Web Tools-->
   <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,threejs,express,bun,yarn,rust" />
   <!--Database and Cloud-->
