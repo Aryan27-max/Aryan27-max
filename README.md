@@ -185,6 +185,4 @@ const Aryan = {
 ```
 ........Ak din mai reh jaunga code push ho jaunga 🥲
 ```
-```
-...........One day I'll be here code will be push 🥲
-```
+
