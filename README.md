@@ -183,6 +183,6 @@ const Aryan = {
 
 # What i feel 🥲
 ```
-........Ak din mai reh jaunga code push ho jaunga 🥲
+........Ak din mai reh jaunga code push ho jayega 🥲
 ```
 
