@@ -68,7 +68,7 @@ const Aryan = {
     Frontend: ['React', 'Next.js', 'Tailwind'],
     Backend:  ['Python', 'C++', 'JAVA', 'Node.js'],
     Cloud:    ['AWS', 'Azure', 'Google Cloud', 'Puter'],
-    DB:       ['Firestore', 'MongoDB', ''],
+    DB:       ['Firestore', 'MongoDB', 'SQL distros'],
     Tools:    ['Postman', 'GitHub Actions', 'Linux Systems'],
   },
   certs: ['Harvard's CS50', 'Stanford CS229', 'GitHub Foundations'],
