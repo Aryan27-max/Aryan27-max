@@ -179,9 +179,7 @@ const Aryan = {
 
 </div>
 
----
 
-# What i feel 🥲
 ```
 ........Ak din mai reh jaunga code push ho jayega 🥲
 ```
