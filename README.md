@@ -63,12 +63,12 @@
 const Aryan = {
   name: 'Aryan Gupta',
   current: 'Exploring GenAI & MERN stack',
-  interest: [
-             'Multi Agentic Frameworks',
-             'Cognitive Systems Engineering',
+  interest: {
+             'Multi Agent Frameworks',
+             'Cognitive Data Engineering',
              'Hedge fund Grade Quant Systems',
              'AI first scalable Infrastructure'
-            ],
+            },
   tech: {
     Frontend: ['React', 'Next.js', 'Tailwind'],
     Backend:  ['Python', 'C++', 'JAVA', 'Node.js'],
