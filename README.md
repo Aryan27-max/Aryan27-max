@@ -63,7 +63,12 @@
 const Aryan = {
   name: 'Aryan Gupta',
   current: 'Exploring GenAI & MERN stack',
-  interest: ['Deep Learning', 'Cloud-Native Systems', 'Full Stack Dev', 'AI/ML'],
+  interest: [
+             'Multi Agentic Frameworks',
+             'Cognitive Systems Engineering',
+             'Hedge fund Grade Quant Systems',
+             'AI first scalable Infrastructure'
+            ],
   tech: {
     Frontend: ['React', 'Next.js', 'Tailwind'],
     Backend:  ['Python', 'C++', 'JAVA', 'Node.js'],
@@ -89,7 +94,7 @@ const Aryan = {
 
 <div align="center">
   <!-- Languages & Fundamentals -->
- <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,bash,ruby,rails,scala" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,go,java,cs,python,bash,ruby,rails,scala" />
  <!--Web Tools-->
   <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,threejs,express,bun,yarn,rust" />
   <!--Database and Cloud-->
