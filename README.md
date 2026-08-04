@@ -94,11 +94,11 @@ const Aryan = {
 
 <div align="center">
   <!-- Languages & Fundamentals -->
- <img src="https://skillicons.dev/icons?i=c,cpp,go,java,cs,python,bash,ruby,rails,scala" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,go,java,cs,python,bash" />
  <!--Web Tools-->
-  <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,threejs,bun,yarn,rust,express" />
+  <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,threejs,express" />
   <!--Database and Cloud-->
-  <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,postman,aws,gcp,flask,postgres,mysql,kubernetes,dart,flutter,supabase" />
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,postman,aws,gcp,postgres,mysql,kubernetes" />
   <a href="https://puter.com" target="_blank">
   <img
     src="https://assets.puter.site/puter-logo.png"
@@ -120,7 +120,7 @@ const Aryan = {
   />
 </a>
 <!--Hardware & others-->
-<img src="https://skillicons.dev/icons?i=bsd,raspberrypi,arduino,git,github,githubactions,vercel,vim,webstorm,vscode" height="40" />
+<img src="https://skillicons.dev/icons?i=bsd,git,github,githubactions,vercel,vim,webstorm,vscode" height="40" />
 </div>
 
 <!--Github Analytics Section-->
