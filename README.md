@@ -13,6 +13,10 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" />
   </a>
   &nbsp;&nbsp;
+  <a>
+    <a href="https://leetcode.com/u/Aryan27-max/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
+  </a>
   <a href="https://x.com/aryan2005_raj" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80" />
   </a>
