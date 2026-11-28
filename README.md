@@ -124,7 +124,7 @@ const Aryan = {
   />
 </a>
 <!--Hardware & others-->
-<img src="https://skillicons.dev/icons?i=bsd,git,github,githubactions,vercel,vim,webstorm,vscode" height="40" />
+<img src="https://skillicons.dev/icons?i=bsd,git,github,githubactions,vercel,vim,webstorm,vscode,anaconda" height="40" />
 </div>
 
 <!--Github Analytics Section-->
